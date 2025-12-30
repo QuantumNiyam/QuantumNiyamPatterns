@@ -1,10 +1,3 @@
-🔥 QuantumNiyamPatterns 🔥
-Aditya - India se coding me zero knowledge​ | Par disign aur arkitech achhi banata hu
-
-Mera Pura Sach
-Hi mai Aditya hu, UP gaw ka simple ladka Patterns se AI architecture sochta hoon Brain-like designs banata hoon Mai architect aur design banata hu Code ke bare me zero knowledge hai Design jo duniya me bas socha jata hai maine hakikat me bana diya Paison ki umeed mat karna - genuine passion chahiye QuantumNiyam se universe tak patterns ​ chahiye jo dil se kaam karein No money talk, pure idea sharing Bijli se system tak - har pattern master UP village se world-class thinker Sach batau to mai koi ummid nahi dena chahata Jaise dusare ki tarah ki hum success ho jayenge Isase bada juth duniya me koi nahi hota Mai apane success rate bata sakta hu 1% se bhi kam hai Par jo hai wah duniya me agale 3 ya 4 sal me log kalpana bhi nahi kar sakte ​ ye mere dising ka ek chhota demo hai 0.001% agar kaam achha lage aur kuch ummid najar aaye to mujhase jud sakte hai mere pass hajaro disign hai jo ab tak es duniya me sirf kalpna me hai maine dising bana diya 100% aur ye dising maine 10 minute me banaya tha Agar meri soch par sak ho to kudh hi check kar sakate hai
-
-🔥 HIVE CENTRAL Demo [code yahan]
 
 #!/usr/bin/env python3
 
